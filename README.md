@@ -1,4 +1,4 @@
-# PushKitHMSExample
+# AdsKitHMSExample
 
 # General configuration
 
@@ -47,13 +47,13 @@ react-native init [PROJECT NAME] - Build Android/iOS and start project
 react-native run-android - Build Android environment
 react-native start - Run metro
 
-https://www.npmjs.com/package/@hmscore/react-native-hms-push
+https://www.npmjs.com/package/@hmscore/react-native-hms-ads
 
 # Adb Tips
 adb uninstall [PACKAGE NAME] - Remove app from device
 
 
 # Usefull links
-https://developer.huawei.com/consumer/en/hms/huawei-pushkit/
-https://developer.huawei.com/consumer/en/doc/development/HMS-Plugin-References/instanceid-0000001050157805
+https://developer.huawei.com/consumer/en/hms/huawei-adskit/
+https://developer.huawei.com/consumer/en/doc/development/HMS-Plugin-References/ads-0000001050311042?ha_source=hms1
 
